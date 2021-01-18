@@ -1,0 +1,46 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients":
+	[
+		{
+			"item":"minecraft:diamond_block"
+			
+		},
+		{
+			"item":"minecraft:diamond_block"
+			
+		},
+		{
+			"item":"minecraft:diamond_block"
+			
+		},
+		{
+			"item":"minecraft:diamond_block"
+			
+		},
+		{
+			"item":"minecraft:diamond_block"
+			
+		},
+		{
+			"item":"minecraft:diamond_block"
+			
+		},
+		{
+			"item":"minecraft:diamond_block"
+			
+		},
+		{
+			"item":"minecraft:diamond_block"
+			
+		},
+		{
+			"item":"minecraft:diamond_block"
+		}
+	],
+	"result":
+	{
+		"item":"minecraft:netherite_block",
+		"count":1
+	}
+}
